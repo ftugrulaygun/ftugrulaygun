@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">👋 Hi there, I'm Tugrul</h1>
 
-<!--
-**ftugrulaygun/ftugrulaygun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ul>
+  <li>🎯 I’m currently focusing on Python, Java and algorithm solves.</li>
+  <br/>
+  <li>🔭 Technology, science and embedded systems programming are my interested areas.</li>
+  <br/>
+  <li>⚡ I'm progressing on algorithms etc. as a highly motivated, disciplined and determined person.</li>
+  <br/>
+  <li> I currently study computer engineering at Hacettepe University.
+</ul>
 
-Here are some ideas to get you started:
+<h2 align="center">💻 Tech Stack 🛠️</h2>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30"/>&nbsp 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="30" height="30"/>&nbsp 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" width="30" height="30" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="30" height="30"/>&nbsp;
+</div>
