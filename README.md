@@ -7,7 +7,7 @@
   <br/>
   <li>⚡ I'm progressing on algorithms etc. as a highly motivated, disciplined and determined person.</li>
   <br/>
-  <li> I currently study computer engineering at Hacettepe University.
+  <li> I am currently studying computer engineering at Hacettepe University.
 </ul>
 
 <h2 align="center">💻 Tech Stack 🛠️</h2>
